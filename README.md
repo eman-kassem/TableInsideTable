@@ -22,7 +22,7 @@ pod "TableInsideTable"
 
 ## Author
 
-Eman Kassem, eman@googansolutions.com
+Eman A. Kassem, eman.kassem9990@gmail.com
 
 ## License
 

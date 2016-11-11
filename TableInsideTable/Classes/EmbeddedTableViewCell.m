@@ -7,7 +7,7 @@
 //
 
 #import "EmbeddedTableViewCell.h"
-#import "ApplicationConstants.h"
+#import "EKApplicationConstants.h"
 
 @implementation EmbeddedTableViewCell
 

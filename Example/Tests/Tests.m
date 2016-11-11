@@ -2,8 +2,8 @@
 //  TableInsideTableTests.m
 //  TableInsideTableTests
 //
-//  Created by Eman Kassem on 11/11/2016.
-//  Copyright (c) 2016 Eman Kassem. All rights reserved.
+//  Created by Eman on 11/11/2016.
+//  Copyright (c) 2016 Eman A. Kassem. All rights reserved.
 //
 
 @import XCTest;

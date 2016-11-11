@@ -11,8 +11,9 @@
 #import "EmbeddedTableViewCell.h"
 #import "EKApplicationConstants.h"
 #import "MainItem.h"
+#import "TableInsideTable-Prefix.pch"
 
-@interface MainViewController () {
+@interface EKMainViewController () {
     NSMutableArray *mainArray, *mainPlusDetailsArray;
     int variableTableIndex;
     NSMutableArray *tempArray;
