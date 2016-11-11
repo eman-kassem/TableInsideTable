@@ -6,6 +6,10 @@
 [![License](https://img.shields.io/cocoapods/l/TableInsideTable.svg?style=flat)](http://cocoapods.org/pods/TableInsideTable)
 [![Platform](https://img.shields.io/cocoapods/p/TableInsideTable.svg?style=flat)](http://cocoapods.org/pods/TableInsideTable)
 
+TableInsideTable subclassing UITableViewCell for embedding Table inside Another.
+
+TableInsideTable for Using Ready-To-Go embedded table with Main UITableViewCell.
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
