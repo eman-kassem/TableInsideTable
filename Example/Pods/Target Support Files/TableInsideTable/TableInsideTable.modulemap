@@ -1,0 +1,6 @@
+framework module TableInsideTable {
+  umbrella header "TableInsideTable-umbrella.h"
+
+  export *
+  module * { export * }
+}

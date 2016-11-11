@@ -1,0 +1,6 @@
+framework module Pods_TableInsideTable_Tests {
+  umbrella header "Pods-TableInsideTable_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

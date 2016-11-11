@@ -1,0 +1,16 @@
+PODS:
+  - TableInsideTable (0.1.0)
+
+DEPENDENCIES:
+  - TableInsideTable (from `../`)
+
+EXTERNAL SOURCES:
+  TableInsideTable:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TableInsideTable: 749f6f36010b4e8a22144bb13f2c00645e546eb4
+
+PODFILE CHECKSUM: ff7b1bcc1ef20cdc8a73d8d9fd4b1a6826a7d522
+
+COCOAPODS: 1.2.0.beta.1
