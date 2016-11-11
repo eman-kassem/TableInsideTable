@@ -18,6 +18,7 @@
 		323558771DD645D5009DF2DE /* up.png in Resources */ = {isa = PBXBuildFile; fileRef = 323558701DD645D5009DF2DE /* up.png */; };
 		323558781DD645D5009DF2DE /* up@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 323558711DD645D5009DF2DE /* up@2x.png */; };
 		323558791DD645D5009DF2DE /* up@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 323558721DD645D5009DF2DE /* up@3x.png */; };
+		32434CD41DD6788B00765A00 /* .travis.yml in Resources */ = {isa = PBXBuildFile; fileRef = 32434CD31DD6788B00765A00 /* .travis.yml */; };
 		6003F58E195388D20070C39A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58D195388D20070C39A /* Foundation.framework */; };
 		6003F590195388D20070C39A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58F195388D20070C39A /* CoreGraphics.framework */; };
 		6003F592195388D20070C39A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F591195388D20070C39A /* UIKit.framework */; };
@@ -63,6 +64,7 @@
 		323558701DD645D5009DF2DE /* up.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = up.png; sourceTree = "<group>"; };
 		323558711DD645D5009DF2DE /* up@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "up@2x.png"; sourceTree = "<group>"; };
 		323558721DD645D5009DF2DE /* up@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "up@3x.png"; sourceTree = "<group>"; };
+		32434CD31DD6788B00765A00 /* .travis.yml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .travis.yml; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* TableInsideTable_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TableInsideTable_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -138,6 +140,7 @@
 		6003F581195388D10070C39A = {
 			isa = PBXGroup;
 			children = (
+				32434CD31DD6788B00765A00 /* .travis.yml */,
 				60FF7A9C1954A5C5007DD14C /* Podspec Metadata */,
 				6003F593195388D20070C39A /* Example for TableInsideTable */,
 				6003F5B5195388D20070C39A /* Tests */,
@@ -327,6 +330,7 @@
 				323558741DD645D5009DF2DE /* down@2x.png in Resources */,
 				323558781DD645D5009DF2DE /* up@2x.png in Resources */,
 				323558761DD645D5009DF2DE /* TIT.png in Resources */,
+				32434CD41DD6788B00765A00 /* .travis.yml in Resources */,
 				3235586A1DD64554009DF2DE /* Images.xcassets in Resources */,
 				320E1A661DD640F300BFAFFE /* LaunchScreen.storyboard in Resources */,
 				323558771DD645D5009DF2DE /* up.png in Resources */,
