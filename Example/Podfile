@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TableInsideTable_Example' do
+  pod 'TableInsideTable', :path => '../'
+
+  target 'TableInsideTable_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
