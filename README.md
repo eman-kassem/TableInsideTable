@@ -1,7 +1,7 @@
 ![alt tag](https://github.com/eman-kassem/TableInsideTable/blob/master/TIT_Green.png)
 # TableInsideTable
 
-[![CI Status](http://img.shields.io/travis/Eman Kassem/TableInsideTable.svg?style=flat)](https://travis-ci.org/Eman Kassem/TableInsideTable)
+[![Build Status](https://travis-ci.org/eman-kassem/TableInsideTable.svg?branch=master)](https://travis-ci.org/eman-kassem/TableInsideTable)
 [![Version](https://img.shields.io/cocoapods/v/TableInsideTable.svg?style=flat)](http://cocoapods.org/pods/TableInsideTable)
 [![License](https://img.shields.io/cocoapods/l/TableInsideTable.svg?style=flat)](http://cocoapods.org/pods/TableInsideTable)
 [![Platform](https://img.shields.io/cocoapods/p/TableInsideTable.svg?style=flat)](http://cocoapods.org/pods/TableInsideTable)
