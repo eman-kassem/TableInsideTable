@@ -2,4 +2,4 @@ language: objective-c
 osx_image: xcode8.1
 xcode_project: TableInsideTable.xcworkspace
 xcode_scheme: TableInsideTableTests
-xcode_sdk: iphonesimulator9.0
+xcode_sdk: iphonesimulator9.3
